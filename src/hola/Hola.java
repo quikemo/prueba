@@ -22,6 +22,8 @@ public class Hola {
         
         
         JOptionPane.showMessageDialog(null, "hola");
+        
+        JOptionPane.showInputDialog("hola");
     }
     
 }
